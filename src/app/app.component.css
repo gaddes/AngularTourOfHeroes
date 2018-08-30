@@ -13,7 +13,7 @@ nav a {
   padding: 5px 10px;
   text-decoration: none;
   margin-top: 10px;
-  margin-right: 10px;
+  margin-right: 10px; /* MG added this to separate 'Dashboard' and 'Heroes' nav links. */
   display: inline-block;
   background-color: #eee;
   border-radius: 4px;
